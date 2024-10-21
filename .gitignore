@@ -50,3 +50,5 @@ yarn-error.log*
 .env 
 temp
 .temp
+
+.astro

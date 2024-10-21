@@ -85,7 +85,7 @@ npx @shopware/api-gen generate --apiType=store
 
 Now, you can take advantage of a new entity and operation available:
 
-![Screenshot showing autocompletion for invoke method](./hint.png)
+![Screenshot showing autocompletion for invoke method](hint.png)
 
 
 ```ts add={14-22,24}
